@@ -17,7 +17,7 @@ React + Spring Boot OAuth2.0 JWT 登入系統
 基礎概念
 ---
 #### Google Oauth2.0 工作流程 Code Flow
-![](<https://cdn.discordapp.com/attachments/1344320312476696627/1344320605121679421/flow.png?ex=67c07ba0&is=67bf2a20&hm=bed4e7777d18d6b162eec3cf9a06b711b7e9ad1a5321d9d809b50c24c4649ff0&> "工作流程")
+![image](https://github.com/UnrealNightZero/oauth/blob/main/flow.png)
 
 環境變數設定
 ---
